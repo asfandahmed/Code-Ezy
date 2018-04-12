@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\code_ezy_\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\code_ezy_\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,3,4,20,19,14,15,17,18,16,13,7,8,11,10,9,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,1,4,4,4,4,4,4",
+                        "startOffsets": "222,59,106,958,843,610,664,757,800,707,559,276,336,505,451,390,160",
+                        "endColumns": "52,45,52,83,113,52,41,41,41,48,46,58,52,52,52,59,60",
+                        "endOffsets": "270,100,154,1037,952,658,701,794,837,751,604,330,384,553,499,445,216"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "392,445,491,544,628,742,795,837,879,921,970,1020,1079,1132,1185,1238,1298",
+                        "endColumns": "52,45,52,83,113,52,41,41,41,48,49,58,52,52,52,59,60",
+                        "endOffsets": "440,486,539,623,737,790,832,874,916,965,1015,1074,1127,1180,1233,1293,1354"
+                    }
+                },
+                {
+                    "source": "C:\\code_ezy_\\app\\src\\main\\res\\values\\arrays.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "1,4",
+                        "startOffsets": "54,176",
+                        "endLines": "5,9",
+                        "endColumns": "19,19",
+                        "endOffsets": "170,279"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,173",
+                        "endLines": "5,9",
+                        "endColumns": "19,19",
+                        "endOffsets": "168,273"
+                    }
+                },
+                {
+                    "source": "C:\\code_ezy_\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,542",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "501,699"
+                    },
+                    "to": {
+                        "startLines": "29,36",
+                        "startColumns": "4,4",
+                        "startOffsets": "1359,1667",
+                        "endLines": "35,38",
+                        "endColumns": "12,12",
+                        "endOffsets": "1662,1822"
+                    }
+                },
+                {
+                    "source": "C:\\code_ezy_\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "278,336",
+                        "endColumns": "57,55",
+                        "endOffsets": "331,387"
+                    }
+                }
+            ]
+        }
+    ]
+}

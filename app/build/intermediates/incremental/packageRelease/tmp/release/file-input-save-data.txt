@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Apr 12 15:13:56 PKT 2018
+1.base=C\:\\code_ezy_\\app\\build\\intermediates\\assets\\release
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\code_ezy_\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+1.path=code_ezy

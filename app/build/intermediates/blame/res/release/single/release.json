@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_menu.xml.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\menu_play.xml.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\menu\\play.xml"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\layout_row.xml.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\xml_app_preferences.xml.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\xml\\app_preferences.xml"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_settings.xml.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_credits.xml.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\layout\\activity_credits.xml"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_info.xml.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_score.xml.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\layout\\activity_score.xml"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\code_ezy_\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\code_ezy_\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+	<PreferenceCategory android:title="Difficulty">
+	    <ListPreference
+	        android:title="Select Level"
+            android:key="levelPref"
+            android:defaultValue="1"
+            android:entries="@array/levels_array"
+            android:entryValues="@array/values_array" />
+	</PreferenceCategory>
+</PreferenceScreen>

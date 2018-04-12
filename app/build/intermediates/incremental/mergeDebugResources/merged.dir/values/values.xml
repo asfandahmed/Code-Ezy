@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="levels_array">
+        <item>Beginner</item>
+        <item>Advance</item>
+    </string-array>
+    <string-array name="values_array">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Code Ezy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="msg_contact">For more contact at: asfandahmed1@gmail.com</string>
+    <string name="msg_instruction">Sort the tags in proper order. Drag star to sort items on the screen.</string>
+    <string name="str_credits">Instructions</string>
+    <string name="str_info">Info</string>
+    <string name="str_play">Play</string>
+    <string name="str_quit">Quit</string>
+    <string name="str_score">High Score</string>
+    <string name="str_settings">Settings</string>
+    <string name="title_activity_credits">Credits</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_play">Play</string>
+    <string name="title_activity_score">High Score</string>
+    <string name="title_activity_settings">Settings</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>
